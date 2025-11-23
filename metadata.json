@@ -1,0 +1,8 @@
+{
+  "name": "Murder Mystery Online",
+  "description": "A web-based adaptation of Deception: Murder in Hong Kong. A social deduction game where players solve a crime using vague clues from a Forensic Scientist.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
